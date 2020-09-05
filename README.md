@@ -1,2 +1,2 @@
-# oauth2-example
+# Oauth2 Example
 A tutorial implementation of outh2
